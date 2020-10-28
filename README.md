@@ -7,7 +7,9 @@ This assignment is about creating a presentation tool for web/mobile more in lin
 simplicity of the later.
 Active use of a clear agile development process and version control system is a project
 requirement.
-General project requirements
+
+
+General project requirements:
 - Agile process with a feature map and project board.
 - GitHub for source control.
 - Normal usage of git for project work (branching, pull request).
@@ -20,7 +22,8 @@ General project requirements
 - The application must run on Heroku
 - The application must work in FireFox
 - Project report.
-Minimum requirements for C grade consideration (not in order)
+
+Minimum requirements for C grade consideration (not in order):
 - Server API for Create / Delete / Update Presentations
 - Server API for Create / Delete / Update Slides
 - Server API for Create / Delete / Update / Authenticate user accounts
@@ -33,7 +36,8 @@ List).
 - Presentations look and feel should be based on a theme.
 - Client should have presentation mode and edit mode
 - Client/server must require authentication when appropriate
-Minimum requirements for B grade consideration (not in order)
+
+Minimum requirements for B grade consideration (not in order):
 - Share presentations private/individual/public
 - Collect and report user metrics to the user
 - Optional presenter notes for each slide
@@ -46,7 +50,8 @@ real-time on their own screen. Note that they should only see the current slide.
 - Export presentation to single self-contained HTML file for offline usage.
 - Server code is modularly structured in an intuitive way.
 - Client code is modularly structured in an intuitive way.
-Minimum requirements for A grade consideration (not in order)
+
+Minimum requirements for A grade consideration (not in order):
 - Import presentation from exported HTML file.
 - Optionally include slide thumbnails in export of presenter notes.
 - Users should be able to create their own themes for presentations.
@@ -55,6 +60,7 @@ Minimum requirements for A grade consideration (not in order)
 - Use google analytics to trac usage patterns.
 - Application admin digest of errors.
 - Overall clean and effective code.
+
 Take note:
 We are not looking for a tool with a huge range of flexibility in layout and type of content.
 The crux is creating a clean simple and usable tool.
